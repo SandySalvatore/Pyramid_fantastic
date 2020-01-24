@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '0.5.altair'
+version = '0.5.1.1'
 
 
 def description():
